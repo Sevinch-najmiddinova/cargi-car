@@ -1,0 +1,10 @@
+pozition absaluyt dvga 
+1  beforre 2 after 
+div{
+img becgrount boladi 
+top 0 
+heigt 84px
+left
+raight 0 
+
+}
